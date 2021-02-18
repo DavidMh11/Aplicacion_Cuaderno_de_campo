@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_registros">
+
+    <fragment
+        android:id="@+id/nav_registros"
+        android:name="com.example.cuaderno.ui.registros.RegistrosFragment"
+        android:label="@string/menu_registros"
+        tools:layout="@layout/fragment_registros" />
+
+    <fragment
+        android:id="@+id/nav_usuario"
+        android:name="com.example.cuaderno.ui.usuario.UsuarioFragment"
+        android:label="@string/menu_usuario"
+        tools:layout="@layout/fragment_usuario" />
+</navigation>

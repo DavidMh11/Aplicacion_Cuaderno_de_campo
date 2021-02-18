@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cuaderno de campo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DavidMh</string>
+    <string name="nav_header_subtitle">david.mh.556@gmil.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_registros">Registros</string>
+    <string name="menu_usuario">Información del usuario</string>
+    
+    
+    //TextView
+    <string name="tvNombre">Nombre</string>
+    <string name="tvEspecie">Especie</string>
+    <string name="tvGenero">Género</string>
+    <string name="tvHuesped">Huésped</string>
+    <string name="tvFecha">Fecha</string>
+    <string name="tvUbicación">Ubicación</string>
+    <string name="tvFotosColecta">Fotos de colecta</string>
+    <string name="tvCorreo">Correo electrónico</string>
+    <string name="tvTelefono">Teléfono</string>
+
+    //Botones
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnModificar">Modificar</string>
+</resources>
